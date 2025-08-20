@@ -1,0 +1,74 @@
+[
+  {
+    "direction": "UP",
+    "amount": 200,
+    "result": "WIN",
+    "profit_loss": 180,
+    "timestamp": "2025-08-20T00:11:33.951919+05:30",
+    "trade_id": 1
+  },
+  {
+    "direction": "DOWN",
+    "amount": 150,
+    "result": "LOSS",
+    "profit_loss": -150,
+    "timestamp": "2025-08-20T00:11:33.954040+05:30",
+    "trade_id": 2
+  },
+  {
+    "direction": "UP",
+    "amount": 300,
+    "result": "WIN",
+    "profit_loss": 270,
+    "timestamp": "2025-08-20T00:11:33.956361+05:30",
+    "trade_id": 3
+  },
+  {
+    "direction": "UP",
+    "amount": 200,
+    "result": "WIN",
+    "profit_loss": 180,
+    "timestamp": "2025-08-20T00:22:01.503297+05:30",
+    "trade_id": 4
+  },
+  {
+    "direction": "DOWN",
+    "amount": 150,
+    "result": "LOSS",
+    "profit_loss": -150,
+    "timestamp": "2025-08-20T00:22:01.505916+05:30",
+    "trade_id": 5
+  },
+  {
+    "direction": "UP",
+    "amount": 300,
+    "result": "WIN",
+    "profit_loss": 270,
+    "timestamp": "2025-08-20T00:22:01.508366+05:30",
+    "trade_id": 6
+  },
+  {
+    "direction": "UP",
+    "amount": 200,
+    "result": "WIN",
+    "profit_loss": 180,
+    "timestamp": "2025-08-20T00:22:28.023091+05:30",
+    "trade_id": 7
+  },
+  {
+    "direction": "DOWN",
+    "amount": 150,
+    "result": "LOSS",
+    "profit_loss": -150,
+    "timestamp": "2025-08-20T00:22:28.025973+05:30",
+    "trade_id": 8
+  },
+  {
+    "direction": "UP",
+    "amount": 300,
+    "result": "WIN",
+    "profit_loss": 270,
+    "timestamp": "2025-08-20T00:22:28.029881+05:30",
+    "trade_id": 9
+  }
+]
